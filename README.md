@@ -3,7 +3,7 @@
 </p>
 <ul>
   <li>👋 Hi, I’m @RqndomHax</li>
-  <li>🌱 I’m currently learning C++, Java and C.</li>
+  <li>🌱 I’m currently learning C++, Java, Rust and C.</li>
 </ul>
 
 #### Links
