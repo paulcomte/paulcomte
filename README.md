@@ -2,6 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/RqndomHax">RqndomHax</a>'s Profile 👋</h1>
 </p>
 <ul>
+
   <li>👋 Hi, I’m @RqndomHax</li>
   <li>🌱 I’m currently learning C++, Java, Rust and C.</li>
 </ul>
@@ -14,7 +15,7 @@
 
   ### <li> <a href="https://rqndomhax.io">Website</a> </li>
 
- </ul>
+</ul>
  
  <br>
   
