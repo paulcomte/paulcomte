@@ -3,8 +3,13 @@
 </p>
 <ul>
 
-  <li>👋 Hi, I’m @RqndomHax</li>
-  <li>🌱 I’m currently learning C++, <i>(2 years)</i>, Java <i>(6 years)</i>, Rust <i>(1 month)</i> and C <i>(3 years)</i>.</li>
+  <li>👋 Hi, I’m @RqndomHax an 18 years old French developer</li>
+  
+  ## Skills
+  - 👨‍💻 Rust, Java, C, C++
+  - ⚙️ Haskell, Javascript
+  - 👁️ SASS, CSS
+  - 💽 MySQL, SQL, {Mongo} <--- the goat
 </ul>
 
 ## Links
@@ -12,6 +17,8 @@
 <ul>
 
   ### <li> <a href="https://twitter.com/rqndomhax">Twitter</a> </li>
+  
+  ### <li> <a href="https://www.linkedin.com/in/paul-comte-4999661ba/">LinkedIn</a> </li>
 
   ### <li> <a href="https://rqndomhax.io">Website</a> </li>
 
