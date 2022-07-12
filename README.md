@@ -20,7 +20,7 @@
   
   ### <li> <a href="https://www.linkedin.com/in/paul-comte-4999661ba/">LinkedIn</a> </li>
 
-  ### <li> <a href="https://rqndomhax.io">Website</a> </li>
+  ### <li> <a href="https://rqndomhax.io">Website</a> WIP </li>
 
 </ul>
  
