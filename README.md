@@ -15,8 +15,6 @@
 ## Links
 
 <ul>
-
-  ### <li> <a href="https://twitter.com/rqndomhax">Twitter</a> </li>
   
   ### <li> <a href="https://www.linkedin.com/in/paul-comte-4999661ba/">LinkedIn</a> </li>
 
