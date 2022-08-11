@@ -33,7 +33,7 @@
   
  <p align="center">
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=RqndomHax&langs_count=10&layout=compact&theme=tokyonight">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=RqndomHax&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
 
 </p>
