@@ -18,7 +18,7 @@
   
   ### <li> <a href="https://www.linkedin.com/in/paul-comte-4999661ba/">LinkedIn</a> </li>
 
-  ### <li> <a href="https://rqndomhax.io">Website</a> WIP </li>
+  ### <li> <a href="https://rqndomhax.io">Website</a></li>
 
 </ul>
  
@@ -32,7 +32,7 @@
   ## Misc
   
  <p align="center">
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshizo&langs_count=10&layout=compact&theme=tokyonight">
-    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Koshizo&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshizo-dev&langs_count=10&layout=compact&theme=tokyonight">
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Koshizo-dev&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true">
 </p>
       
