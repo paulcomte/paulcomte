@@ -3,7 +3,7 @@
 </p>
 <ul>
 
-  <li>👋 Hi, I’m @Koshizo an 19 years old French developer</li>
+  <li>👋 Hi, I’m @Koshizo-dev an 19 years old French developer</li>
   
   ## Skills
   - 👨‍💻 Rust, Java, C, C++
