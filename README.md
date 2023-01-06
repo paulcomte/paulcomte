@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/RqndomHax">RqndomHax</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/Koshizo">Koshizo</a>'s Profile 👋</h1>
 </p>
 <ul>
 
-  <li>👋 Hi, I’m @RqndomHax an 18 years old French developer</li>
+  <li>👋 Hi, I’m @Koshizo an 19 years old French developer</li>
   
   ## Skills
   - 👨‍💻 Rust, Java, C, C++
@@ -32,7 +32,7 @@
   ## Misc
   
  <p align="center">
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=RqndomHax&langs_count=10&layout=compact&theme=tokyonight">
-    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=RqndomHax&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshizo&langs_count=10&layout=compact&theme=tokyonight">
+    <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Koshizo&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true">
 </p>
       
