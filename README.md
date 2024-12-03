@@ -3,7 +3,7 @@
 </p>
 <ul>
 
-  <li>👋 Hi, I’m @paulcomte a 20 years old French developer</li>
+  <li>👋 Hi, I’m @paulcomte a 21 years old French developer</li>
   
   ## Skills
   - 👨‍💻 Rust, Java, C, C++
