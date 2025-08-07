@@ -39,7 +39,7 @@
     <div align="center">
 <!--         <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=paulcomte&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" alt="Github stats"> -->
       <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulcomte&langs_count=10&layout=compact&theme=dark">  
-      <img src="https://github-readme-stats.vercel.app/api?username=paulcomte&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Github stats"/> 
+      <img src="https://github-readme-stats-orcin-three-85.vercel.app/api?username=paulcomte&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Github stats"/> 
     </div>
 </a>
 
