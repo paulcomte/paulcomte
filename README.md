@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Hey, I'm Paul 🔥</h1>
-<h3 align="center">👨‍🎓 21 years old, French developer, graduating with a Master's Degree in 2025 💻</h3>
+<h3 align="center">👨‍🎓 22 years old, French developer, graduating with a Master's Degree in 2025 💻</h3>
 <br>
 
 <div align="center"><h2>☕ Languages & Frameworks 🦀</h2></div>
